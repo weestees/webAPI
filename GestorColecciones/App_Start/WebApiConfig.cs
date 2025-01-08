@@ -7,7 +7,7 @@ namespace GestorColecciones
 {
     public static class WebApiConfig
     {
-        public static void Register(HttpConfiguration config)
+        public static void Register(HttpConfiguration config) 
         {
             // Configuración y servicios de Web API
 
